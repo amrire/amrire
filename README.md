@@ -5,7 +5,7 @@
 
 ### 🌍 About Me
 
-I am a backend developer with a passion for creating systems that solve real-world problems across the African continent. I'm currently advancing my skills through the <strong>ALX Software Engineering Program</strong>, focusing on scalable, secure, and culturally relevant backend systems.
+I am a software engineer with a passion for creating systems that solve real-world problems across the African continent. I'm currently advancing my skills through the <strong>ALX Software Engineering Program</strong>, focusing on scalable, secure, and culturally relevant backend systems.
 
 ### 🛠️ Tech Stack & Tools
 
