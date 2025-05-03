@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
+<p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif">
 <p align="left"> </p>
 
-## 🌍 About Me
+### 🌍 About Me
 
 I am a backend developer with a passion for creating systems that solve real-world problems across the African continent. I'm currently advancing my skills through the <strong>ALX Software Engineering Program</strong>, focusing on scalable, secure, and culturally relevant backend systems.
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
