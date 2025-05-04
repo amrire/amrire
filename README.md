@@ -24,6 +24,7 @@ I am a software engineer with a passion for creating systems that solve real-wor
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C7EBB?style=for-the-badge&logo=oauth&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
